@@ -1,15 +1,14 @@
 .banner{
-    background-image: url(https://wallpaperaccess.com/full/2703652.png);
     background-size: cover;
     height: 448px;
-    width: 100%;
     color: white;
+    padding-top: 80px;
 }
 
 .content{
     padding-top: 140px;
     height: 190px;
-    padding-left: 15px;
+    padding-left: 20px;
     
 }
 .title{
